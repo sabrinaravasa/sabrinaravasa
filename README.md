@@ -1,4 +1,4 @@
 Olá, me chamo Sabrina!
 
-- Engenheira de alimentos e técnica em química
-- Atualmente estou aprendendo front-end
+- Estou aprendendo front-end e buscando ingressar como dev no mercado
+- Por formação, sou Engenheira de alimentos e técnica em química
